@@ -1,0 +1,61 @@
+h1{
+	font-size: 50px;
+  
+    font-family: blippo,sans-serif;
+    color:lightgrey;
+    text-align: center;
+   
+}
+*{
+	background-color: black;
+	color:white;
+	padding: 10px;
+
+}
+.contact{
+  background:#212121;
+  color:white;
+  font-size: 18px;
+  margin:40px;
+  background:#212121;
+  color:white;
+  font-size: 18px;
+  margin:40px;
+}
+h2{
+  font-size: 23px;
+  font-weight:normal;
+  border-bottom: 1px solid;
+}
+body{
+  text-align: center;
+  font-family: impact, sans-serif;
+  font-size:20px ;
+  font-style:normal;
+  width: 960px;
+  max-width: 100%;
+  margin: 0 auto;
+
+}
+  .fa{
+  color:white;
+}
+.page-footer{
+  padding: 35px;
+  border-top:1px solid white;
+  }
+
+blockquote strong{
+  display:block;
+  font-size: 40px;
+  margin: 20px;
+}
+.wrapper{
+  background-image:url(http://jcclm.com/wp-content/uploads/2017/02/damso_cover-1.jpg);
+  background-repeat: no-repeat;
+  text-align:center;
+padding: 200px;
+  color:white;
+  background-attachment:fixed;
+  background-size:cover;
+}
